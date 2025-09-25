@@ -1,0 +1,21 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "This project focuses on building a scalbale API for a todo application",
+  "homepage": "https://github.com/marycynthia2020/todo-api#readme",
+  "bugs": {
+    "url": "https://github.com/marycynthia2020/todo-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marycynthia2020/todo-api.git"
+  },
+  "license": "ISC",
+  "author": "Chinemerem Ugbaja",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
