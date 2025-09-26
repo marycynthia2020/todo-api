@@ -1,0 +1,390 @@
+{
+    "user_id_autoIncrement": 3,
+    "todo_id_autoIncrement": 4,
+    "users": [
+        {
+            "user_id": 1,
+            "username": "chinemerem",
+            "email": "chi@gmail.com",
+            "password": "$2b$10$Wlv0aL/sfvcccOeyqI7cqOwipHDQ/.8YfS4lvKDis8j8.cvCXCUh6"
+        },
+        {
+            "user_id": 2,
+            "username": "pero",
+            "email": "pero@gmail.com",
+            "password": "$2b$10$3d2H/dbsh/bwa5ieLhAFz.i7POm.SLB7qg18H0hJ3ltIwn8ngd1ZG"
+        }
+    ],
+    "todos": [
+        {
+            "todo_id": 1,
+            "user_id": 1,
+            "title": "assignment",
+            "description": "shhshs",
+            "created_at": 1657548800000,
+            "dueDate": "2025-12-10",
+            "status": "pending"
+        },
+        {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+        {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        },
+         {
+            "todo_id": 2,
+            "user_id": 2,
+            "title": "Learn JS",
+            "description": "Very urgent",
+            "created_at": 1758883025392,
+            "dueDate": "209-12-10",
+            "status": "completed"
+        },
+        {
+            "todo_id": 3,
+            "user_id": 2,
+            "title": "Learn Docker",
+            "description": "Very urgent",
+            "created_at": 1758883054253,
+            "dueDate": "2026-12-10",
+            "status": "pending"
+        }
+        
+    ]
+}
