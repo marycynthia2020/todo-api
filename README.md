@@ -32,9 +32,8 @@ Todo Operations:
 POST|/auth/login|Authenticates a user with a username and password, and returns a token.
 POST|/todos/add|Creates a new todo for the authenticated user.
 GET|/todos|Retrieves a list of all todos for the authenticated user. If page is provided as a req query provides the requested page. Query Parameters: ?page=1 (for pagination), ?status=pending (for filtering), ?title=search_term, ?description=search_term (for searching), ?past_date=YYYY-MM-DD (for time-based retrieval).
- GET|/todos/:id|Gets a specific todo by its ID.
- DELETE|	
-/todos/delete/:id| Delete a todo by ID
+GET|/todos/:id|Gets a specific todo by its ID.
+DELETE|/todos/delete/:id| Delete a todo by ID
 PATCH|/todos/mark/:id|Marks a todo as completed if pending and pending if completed
 GET| /todos/user/:id| Get all todos by any user with the user ID
 
